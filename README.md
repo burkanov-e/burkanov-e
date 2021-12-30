@@ -66,4 +66,11 @@
 <a href = "https://twitter.com/burkanov_e"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/burkanov_e/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
+
+<br/>
+<br/>
+
+## Feeding the snake with my contribution graph
+![snake gif](https://github.com/burkanov-e/burkanov-e/blob/output/github-contribution-grid-snake.gif)
+
 </p>
