@@ -68,7 +68,6 @@
 
 
 <br/>
-<br/>
 
 ## Feeding the snake with my contribution graph
 ![snake gif](https://github.com/burkanov-e/burkanov-e/blob/output/github-contribution-grid-snake.gif)
