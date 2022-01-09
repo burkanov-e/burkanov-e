@@ -6,9 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Data Structures and Algorithms**
-
-- 🌱 I’m currently learning **AWS and C++**
+- 🌱 I’m currently learning **AWS and Data Stuctures and Algorithms**
 
 - � I’m looking to collaborate on **OpenSource Projects**
 
