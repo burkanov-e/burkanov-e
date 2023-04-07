@@ -23,7 +23,7 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>    
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.python.org/" target="_blank"> <img src="[https://img.icons8.com/color/48/000000/git.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw1suA-FQRvhYCpDRtRb1FrA&ust=1680976245830000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNiNiNKqmP4CFQAAAAAdAAAAABAE)"/> </a> 
+    <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"/> </a> 
 
 </p>
 
