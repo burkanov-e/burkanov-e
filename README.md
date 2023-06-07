@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Python and Ansible**
+- 🌱 I’m currently learning **AWS**
 
 - 😄 Pronouns: He/His
 
