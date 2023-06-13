@@ -42,6 +42,18 @@
 
 <br/>
 <br/>
+
+
+## &#x1f4c8; GitHub Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=burkanov-e&theme=dark" alt="isko21" /></p>
+<p align="center">
+<a href="https://github.com/burkanov-e/burkanov-e">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burkanov-e&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/burkanov-e/burkanov-e">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=burkanov-e&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Esenbek's GitHub Stats" />
+</a>
+ </p>
 (#) -->
 
 ## Connect with me:
