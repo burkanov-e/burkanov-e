@@ -34,11 +34,11 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Esenbek Burkanov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=burkanov-e&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+![Esenbek Burkanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=burkanov-e&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Esenbek Burkanov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burkanov-e&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Esenbek Burkanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=burkanov-e&count_private=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117)
 
 
 <br/>
