@@ -4,14 +4,6 @@
 <h3 align="center">Knowledge is of no value unless you put it into practice!</h3>
 
 
-## 🙋‍♂️ About Me
-
-- 🌱 I’m currently learning **AWS**
-
-- 😄 Pronouns: He/His
-
-- ⚡ Fun fact I love to watch tech related videos on YouTube
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
