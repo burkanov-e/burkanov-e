@@ -1,3 +1,4 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Esen Burkanov</h1>
 <h2 align="center">DevOps Engineer 👨‍💻 | Python and AWS Lover 🐍</h2>
 
@@ -10,7 +11,7 @@
  
 ## 🌐 Connect with me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/esenbek-burkanov-88b88a293/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
