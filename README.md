@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Esen Burkanov</h1>
-<h3 align="center">DevOps Engineer, Python and AWS Lover 🐍</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Esen Burkanov</h1>
+<h2 align="center">DevOps Engineer 👨‍💻 | Python and AWS Lover 🐍</h2>
 
 ## 👨‍💻 About me
 
@@ -15,9 +15,21 @@
 </p>
 
 ## 🪪 Certifications
-- [Credly](https://www.credly.com/users/esenbek-burkanov)
-- [Accredible](https://www.credential.net/profile/esenbekburkanov862939/wallet) 
-- [LPI](https://lpi.org/verify/LPI000558701/adg47b2mkp) 
+**AWS**
+- [AWS Cloud Practitioner](https://www.credly.com/badges/8af49160-9dce-4da2-9223-ada828c3dadb)
+- [AWS Solutions Architect](https://www.credly.com/badges/1761293e-5db0-4a19-bdbd-06a5cadae11c)
+- [AWS SysOps Administrator](https://www.credly.com/badges/02966c07-cf88-412e-9e06-0f0083efaeef)
+- [AWS Developer](https://www.credly.com/badges/80897e61-8499-48c5-ab6b-e9013e6be0e8)
+
+**Python**
+- [PCEP](https://www.credly.com/badges/fa922db8-bfd5-450b-93b6-2ade17a5321c)
+- [PCAP](https://www.credly.com/badges/58afa00a-134c-4d20-aa94-cc75ed191c78)
+
+**Other**
+- [Docker](https://www.credential.net/9b358a6d-575d-49bc-a3bc-c8fb52aa6563#gs.a7dem8)
+- [Terraform](https://www.credly.com/badges/eb243b99-f61c-4733-8140-b37ccb9eff4f)
+- [Jenkins](https://www.credential.net/5b375374-bcc0-43bc-a272-de64b127374f#gs.a7dfhp) 
+- [Linux LPI](https://lpi.org/verify/LPI000558701/adg47b2mkp) 
 
 ## 💻 Languages and Tools
 
